@@ -57,7 +57,7 @@ I believe in continuous learning through real projects that reflect actual busin
 
 ## 🤝 Let's Connect
 
-📫 [LinkedIn – Sharath H G](https://www.linkedin.com/in/YOUR-LINKEDIN-HERE)  
+📫 [LinkedIn – Sharath H G](https://www.linkedin.com/in/sharath10)  
 📌 Open to freelance & remote data roles  
 💬 Always happy to collaborate or exchange ideas in analytics
 
