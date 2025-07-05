@@ -32,12 +32,12 @@ I believe in continuous learning through real projects that reflect actual busin
 
 You'll find projects and case studies that showcase how I use various tools in the data analytics process:
 
-- **Power BI**: Visual dashboards, KPIs, and DAX for advanced calculations  
-- **Excel**: Data cleaning, pivot tables, formulas, and automation  
-- **SQL**: Data extraction, joins, aggregations, and analytical scripts  
-- **Python**: Exploratory data analysis (EDA), Pandas, and Matplotlib  
-- **Azure**: Data pipelines and cloud-based storage integration  
-- **Microsoft Fabric**: Unified data workflows and real-time analytics
+- 📊 **Power BI**: Visual dashboards, KPIs, and DAX for advanced calculations  
+- 📗 **Excel**: Data cleaning, pivot tables, formulas, and automation  
+- 🗄️ **SQL**: Data extraction, joins, aggregations, and analytical scripts  
+- 🐍 **Python**: Exploratory data analysis (EDA), Pandas, and Matplotlib  
+- ☁️ **Azure**: Data pipelines and cloud-based storage integration  
+- 🧱 **Microsoft Fabric**: Unified data workflows and real-time analytics
 
 ---
 
