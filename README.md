@@ -15,7 +15,7 @@ I believe in continuous learning through real projects that reflect actual busin
 
 ---
 
-## 🛠️ Tools & Technologies
+## 🛠️ Tools Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
@@ -30,20 +30,14 @@ I believe in continuous learning through real projects that reflect actual busin
 
 ## 📁 Projects You'll Find Here
 
-- 📊 **Sales Performance Dashboard (Power BI)**  
-  Visualizes KPIs like revenue, profit, sales trends, and region-wise performance.
+You'll find projects and case studies that showcase how I use various tools in the data analytics process:
 
-- 📗 **Excel-Based Inventory Tracker**  
-  Built with formulas, conditional formatting, and pivot tables to monitor stock flow and reorder alerts.
-
-- 🐍 **Customer Segmentation using Python**  
-  Performed EDA and clustering on retail data to group customers by buying behavior.
-
-- 🗃️ **HR Analytics with SQL**  
-  Created SQL queries to extract insights on attrition, department hiring, and tenure analysis.
-
-- ☁️ **Azure + Fabric End-to-End Flow (Coming Soon)**  
-  Working on cloud-based pipelines for real-time data analysis and dashboarding.
+- **Power BI**: Visual dashboards, KPIs, and DAX for advanced calculations  
+- **Excel**: Data cleaning, pivot tables, formulas, and automation  
+- **SQL**: Data extraction, joins, aggregations, and analytical scripts  
+- **Python**: Exploratory data analysis (EDA), Pandas, and Matplotlib  
+- **Azure**: Data pipelines and cloud-based storage integration  
+- **Microsoft Fabric**: Unified data workflows and real-time analytics
 
 ---
 
